@@ -1,6 +1,6 @@
 # Personal-Site
 
-My first Portfolio website.
+My first basic Portfolio website.
 
 This project pertains to my first portfolio website where I have described about myself and my skills. 
 
